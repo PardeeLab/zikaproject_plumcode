@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PLUM
+Comment=shortcut to Deskttop/plum/MainWindow.py
+Icon=/usr/share/pixmaps/plm_icon.png
+Exec=lxterminal -t PLUM -e python ./Desktop/plum/MainWindow.py
+Type=Application
+StartNotify=true
+Encoding=UTF-8
+Terminal=true
+Hidden=false
